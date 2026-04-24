@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hvac-service-atlanta-ga.netlify.app/sitemap.xml
